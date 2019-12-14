@@ -10,6 +10,7 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 ipykernel = "*"
+bokeh = "*"
 
 [requires]
 python_version = "3.8"
