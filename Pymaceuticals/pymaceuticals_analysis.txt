@@ -1,0 +1,11 @@
+Pymaceuticals Analysis
+Comparing Capomulin, Infubinol, Ketapril, and Placebo.
+
+Capomulin changed Tumor Volumne on average -19.47%, from 45mm3 to 36.24mm3. 
+The other 3 treatments we compared showed similar changes: Infubinol changed tumor volume 46.12%, Ketapril changed 57.03%, and the Placebo changed 51.29%
+
+The number of metastatic sites increased across all drug treatments. Capomulin created the fewest number of sites, on average 1.48 sites over the 45 days of treatment. Ketapril, and Placebo developed the most metastatic sites, averaging 3.36 and 3.27 respectively.
+
+Capomulin has the highest survival rate of all drugs tested at 84% survival rate. For comparison, the placebo had 44% survival rate and Infubinol has the lowest at 36.0%.
+
+Of these 4 treatments, Capomulin has the most positive changes and the least negative changes.
